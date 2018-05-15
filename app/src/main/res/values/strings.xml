@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OnlineNoticeboard</string>
+    <string name="spinner_title">Select Subject</string>
+</resources>
